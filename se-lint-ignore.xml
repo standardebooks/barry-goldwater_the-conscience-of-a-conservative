@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-6.xhtml">
-		<ignore>
-			<code>t-030</code>
-			<reason>These are brand marks for real labor unions and who write their initialism without spaces or periods.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
