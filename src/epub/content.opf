@@ -54,8 +54,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Barry Morris Goldwater</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Barry_Goldwater</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79144788</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">De Lancey Gill</dc:contributor>
 		<meta property="file-as" refines="#artist">Gill, De Lancey</meta>
