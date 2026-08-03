@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</dc:identifier>
 		<dc:date>2025-08-21T15:50:31Z</dc:date>
@@ -37,12 +37,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008100007</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:description id="description">A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;U.S. Senator and future Republican presidential nominee &lt;a href="https://standardebooks.org/ebooks/barry-goldwater"&gt;Barry Goldwater’s&lt;/a&gt; 1960 book &lt;i&gt;The Conscience of a Conservative&lt;/i&gt; is a foundational work in the American conservative movement from the late 20th century and onward into the modern day. It lays out the conservative position on a number of topics including taxation, labor, welfare, education, and the general roles of state and federal government, and would prove highly influential to future conservative politicians in establishing their own platforms.&lt;/p&gt;
 			&lt;p&gt;Goldwater offers his case for a strict Constitutionalist government in which the role of the federal government is restricted to those things called out explicitly in the constitution, with all other matters being the responsibility of the states to manage independently.&lt;/p&gt;
 			&lt;p&gt;In the final chapter of the book, Goldwater describes his view of the stakes of the Cold War, and the importance of containing the spread of Communism broadly and the Soviet Union in particular.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74319</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001141317</dc:source>
