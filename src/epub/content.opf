@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008100007</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.</dc:abstract>
+		<meta property="schema:abstract">A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.</meta>
 		<dc:description>
 			&lt;p&gt;U.S. Senator and future Republican presidential nominee &lt;a href="https://standardebooks.org/ebooks/barry-goldwater"&gt;Barry Goldwater’s&lt;/a&gt; 1960 book &lt;i&gt;The Conscience of a Conservative&lt;/i&gt; is a foundational work in the American conservative movement from the late 20th century and onward into the modern day. It lays out the conservative position on a number of topics including taxation, labor, welfare, education, and the general roles of state and federal government, and would prove highly influential to future conservative politicians in establishing their own platforms.&lt;/p&gt;
 			&lt;p&gt;Goldwater offers his case for a strict Constitutionalist government in which the role of the federal government is restricted to those things called out explicitly in the constitution, with all other matters being the responsibility of the states to manage independently.&lt;/p&gt;
